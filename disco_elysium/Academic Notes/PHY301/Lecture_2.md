@@ -28,3 +28,22 @@ $$
 $$ \Delta E = E_f - E_i = -\frac{{m_e e^4}}{{8 \epsilon_0^2 h^2}} \left(\frac{{1}}{{n_f^2}} - \frac{{1}}{{n_i^2}}\right)
 $$
 
+
+Therefore, when relating it to the absorbed wavelength we get:
+
+$$ E_{photon} = \frac{hc}{\lambda}
+$$ $$ \frac{1}{\lambda} = R_H \left(\frac{{1}}{{n_f^2}} - \frac{{1}}{{n_i^2}}\right)
+$$
+
+Therefore the Rh of hydrogen would be:
+
+$$ R_H = \frac{{m_e e^4}}{{8 \epsilon_0^2 h^3 c}}
+$$
+
+Hence,
+
+$$ \frac{1}{\lambda} = R_H \left(\frac{{1}}{{2^2}} - \frac{{1}}{{n_i^2}}\right)
+$$
+
+$$ \frac{1}{\lambda} = 1.0967 * 10^{7}m^{-1} $$
+
