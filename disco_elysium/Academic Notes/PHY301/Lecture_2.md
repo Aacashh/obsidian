@@ -47,3 +47,6 @@ $$
 
 $$ \frac{1}{\lambda} = 1.0967 * 10^{7}m^{-1} $$
 
+
+### Limitations of Bohr's Theory
+
