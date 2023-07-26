@@ -56,7 +56,7 @@ $$ \frac{1}{\lambda} = 1.0967 * 10^{7}m^{-1} $$
 
 Q ) The wavelength of the first line of Balmer seeries is 6562.6 Angstrom (i) Calculate the ionisation potential?
 
-The Balmer series in the hydrogen spectrum corresponds to the transition of an electron from a higher energy level (n) to the second energy level (n=2). The first line of the Balmer series corresponds to the transition of an electron from the third energy level (n=3) to the second energy level.
+A) The Balmer series in the hydrogen spectrum corresponds to the transition of an electron from a higher energy level (n) to the second energy level (n=2). The first line of the Balmer series corresponds to the transition of an electron from the third energy level (n=3) to the second energy level.
 
 The energy of a photon emitted in this transition can be calculated using the Rydberg formula:
 
@@ -75,8 +75,6 @@ The ionization potential of an atom is the energy required to remove an electron
 
 The ionization potential is then the difference between the energy of the photon emitted in the first line of the Balmer series and the energy of the photon corresponding to the ionization of the atom.
 
-Let's calculate the ionization potential.
-
 The energy of the photon emitted in the first line of the Balmer series is approximately 1.8893 electronvolts (eV).
 
 The ionization energy of hydrogen (the energy required to remove an electron from the ground state to infinity) is approximately 13.598 eV.
@@ -93,8 +91,6 @@ $$
 \text{Ionization potential} = 13.598 \, \text{eV} - 1.8893 \, \text{eV}
 $$
 
-Let's calculate this.
-
 The ionization potential of hydrogen, calculated as the difference between the ionization energy and the energy of the photon emitted in the first line of the Balmer series, is approximately 11.71 electronvolts (eV). 
 
 So, the required equations and their solutions are:
@@ -105,7 +101,7 @@ So, the required equations and their solutions are:
     \frac{1}{\lambda} = R \left( \frac{1}{2^2} - \frac{1}{3^2} \right)
     $$
 
-    Substituting the given wavelength (\(\lambda = 6562.6\) Angstrom) and the Rydberg constant (\(R = 1.097373 \times 10^7 m^{-1}\)), we find that the energy of the emitted photon is approximately 1.8893 eV.
+    Substituting the given wavelength $\lambda = 6562.6 Angstrom$ and the Rydberg constant $R = 1.097373 \times 10^7 m^{-1}$, we find that the energy of the emitted photon is approximately 1.8893 eV.
 
 2. The ionization potential of hydrogen:
 
@@ -113,4 +109,4 @@ So, the required equations and their solutions are:
     \text{Ionization potential} = \text{Ionization energy} - \text{Energy of the first Balmer line}
     $$
 
-    Substituting the known values (\(\text{Ionization energy} = 13.598 \, \text{eV}\) and \(\text{Energy of the first Balmer line} = 1.8893 \, \text{eV}\)), we find that the ionization potential is approximately 11.71 eV.
+    Substituting the known values $$(\text{Ionization energy} = 13.598 \, \text{eV})$$ and $$(\text{Energy of the first Balmer line} = 1.8893 \, \text{eV})$$), we find that the ionization potential is approximately $11.71 eV$.
