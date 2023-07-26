@@ -52,7 +52,7 @@ $$ \frac{1}{\lambda} = 1.0967 * 10^{7}m^{-1} $$
 
 - In 1887 we saw that there are two very close lines instead of one (explaination??)
 - **1896 P. Zeeman Effect**, they were observing three lines, For $B \propto \delta$  (they saw 3 lines)
-- **1939**
+- **1939** 
 
 Q ) The wavelength of the first line of Balmer seeries is 6562.6 Angstrom (i) Calculate the ionisation potential?
 
