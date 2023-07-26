@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "Academic Notes/PHY302/Lecture_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "Academic Notes/PHY302/Lecture_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "Academic Notes/PHY302/Lecture_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-19.md"
+                "file": "Academic Notes/PHY302/Lecture_1.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,13 @@
   },
   "active": "5bed9bbaa8ba106a",
   "lastOpenFiles": [
-    "2023-07-19.md",
+    "Academic Notes/PHY302/PHY 302.md",
+    "Academic Notes/PHY302/Lecture_1.md",
+    "Academic Notes/PHY302/Maxwell's equations.md",
+    "Academic Notes/PHY302",
+    "Daily Notes/2023-07-19.md",
+    "Daily Notes",
+    "Academic Notes",
     "Untitled.md"
   ]
 }
