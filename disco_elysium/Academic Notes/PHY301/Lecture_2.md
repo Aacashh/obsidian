@@ -50,3 +50,5 @@ $$ \frac{1}{\lambda} = 1.0967 * 10^{7}m^{-1} $$
 
 ### Limitations of Bohr's Theory
 
+- In 1887 we saw that there are two very close lines instead of one (explaination??)
+- **1896 P. Zeeman Effect**
