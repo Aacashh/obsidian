@@ -1,20 +1,18 @@
 {
   "main": {
-    "id": "69980a4c81470e8a",
+    "id": "3ee44b9842ed8bdd",
     "type": "split",
     "children": [
       {
-        "id": "fed3c5d0e0d7f2df",
+        "id": "c2d3d38154351075",
         "type": "tabs",
         "children": [
           {
-            "id": "243678093ffb75aa",
+            "id": "e235daf4a5dabc58",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2024-07-30 21.15.15.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -23,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f931e72dfa14b48",
+    "id": "653db5747bd4c5eb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5a331ae7f4a767eb",
+        "id": "5d7f9c8a32106a5d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -37,7 +35,7 @@
         }
       },
       {
-        "id": "e92653fe4493ac05",
+        "id": "8145bc324c904e45",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -52,7 +50,7 @@
         }
       },
       {
-        "id": "1b256151f1c7a995",
+        "id": "c8263c6a5739e9b3",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -63,7 +61,7 @@
         }
       },
       {
-        "id": "6a3451fd00fb15ca",
+        "id": "f2e2a651d2d0cc5b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -74,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "fd1e6aa0e548d036",
+    "id": "e47dbcdc95deb681",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8477ad2dd1e62814",
+        "id": "e308345568c212eb",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2024-07-30 21.15.15.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,25 +92,22 @@
         }
       },
       {
-        "id": "aa004aced92a73f2",
+        "id": "bcc73796ef8eb32b",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Drawing 2024-07-30 21.15.15.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "932194572640579d",
+        "id": "4576b9edf6891b91",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Drawing 2024-07-30 21.15.15.excalidraw.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -126,33 +120,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "243678093ffb75aa",
+  "active": "e235daf4a5dabc58",
   "lastOpenFiles": [
-    "Excalidraw/Scripts",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Test.md",
-    "Excalidraw/Drawing 2024-07-30 21.18.34.excalidraw.md",
-    "Drawing 2024-07-30 21.15.15.excalidraw.md",
-    "Untitled.md",
-    "Excalidraw",
-    "Untitled 3.canvas",
-    "2024-07-30.md",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Excalidraw/Drawing 2024-07-30 19.17.33.excalidraw.md",
-    "Drawing 2024-07-24 20.40.35.excalidraw.md",
-    "Untitled 1.md",
-    "Ink",
-    "Ink/Writing/2024.7.24 - 19.01pm.writing",
-    "Ink/Writing",
-    "Excalidraw/Drawing 2024-07-24 18.50.03.excalidraw.md",
-    "2024-07-24.md",
-    "Untitled.canvas"
+    "Everything is a draft.md",
+    "Laugh at perfection.md",
+    "Pasted image 20240730223240.png",
+    "Done is the engine of more.md",
+    "Getting things done.md",
+    "Productivity and Lifestyle.md",
+    "publish it on the internet.md",
+    "Three States of Being.md",
+    "There is no editing stage.md",
+    "The point of being done is not to finish.md",
+    "Pretending.md",
+    "People without dirty hands are wrong.md",
+    "Pasted image 20240730225058.png",
+    "Pasted image 20240730225029.png",
+    "Pasted image 20240730225010.png",
+    "Pasted image 20240730224814.png",
+    "Pasted image 20240730224616.png",
+    "Pasted image 20240730224555.png",
+    "Pasted image 20240730224358.png",
+    "Pasted image 20240730223515.png",
+    "Pasted image 20240730223409.png",
+    "Once you’re done you can throw it away.md",
+    "Failure counts as done.md",
+    "Destruction is a variant of done..md",
+    "Banish procrastination.md"
   ]
 }
