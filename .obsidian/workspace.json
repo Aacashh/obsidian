@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9924f72779e34e22",
+        "id": "68ac8f2cd58483ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9c0cb513851842e4",
+            "id": "31bd77b7e6da7971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Three States of Being.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Three States of Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Three States of Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Three States of Being.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +139,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c0cb513851842e4",
+  "active": "31bd77b7e6da7971",
   "lastOpenFiles": [
-    "Pasted image 20240730221548.png",
+    "Pretending.md",
+    "Pasted image 20240730223240.png",
     "Getting things done.md",
+    "There is no editing stage.md",
+    "Pasted image 20240730223109.png",
+    "Everything is a draft.md",
+    "Pasted image 20240730222824.png",
     "Three States of Being.md",
+    "Pasted image 20240730221548.png",
     "Drawing 2024-07-30 21.15.15.excalidraw.md",
     "Excalidraw/Drawing 2024-07-30 21.18.34.excalidraw.md",
     "Excalidraw"
