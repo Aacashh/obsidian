@@ -11,11 +11,28 @@
             "id": "31bd77b7e6da7971",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Productivity and Lifestyle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7852d1e83de4f988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productivity and Lifestyle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "1872f253eaa1757d",
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Productivity and Lifestyle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Productivity and Lifestyle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,14 +138,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Productivity and Lifestyle.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,11 +161,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31bd77b7e6da7971",
+  "active": "7852d1e83de4f988",
   "lastOpenFiles": [
+    "Productivity and Lifestyle.md",
+    "Getting things done.md",
+    "The point of being done is not to finish.md",
+    "Pasted image 20240730223515.png",
+    "Banish procrastination.md",
+    "Pasted image 20240730223409.png",
     "Pretending.md",
     "Pasted image 20240730223240.png",
-    "Getting things done.md",
     "There is no editing stage.md",
     "Pasted image 20240730223109.png",
     "Everything is a draft.md",
