@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coping Mechanisms.md",
+                "file": "Three States of Being.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coping Mechanisms.md",
+                "file": "Three States of Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coping Mechanisms.md",
+                "file": "Three States of Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coping Mechanisms.md"
+                "file": "Three States of Being.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   },
   "active": "9c0cb513851842e4",
   "lastOpenFiles": [
-    "Coping Mechanisms.md",
+    "Pasted image 20240730221548.png",
+    "Getting things done.md",
+    "Three States of Being.md",
     "Drawing 2024-07-30 21.15.15.excalidraw.md",
     "Excalidraw/Drawing 2024-07-30 21.18.34.excalidraw.md",
     "Excalidraw"
