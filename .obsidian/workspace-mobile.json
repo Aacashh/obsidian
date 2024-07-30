@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80964a25f7c6cb46",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2024-07-30 21.15.15.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Drawing 2024-07-30 21.15.15.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Drawing 2024-07-30 21.15.15.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Drawing 2024-07-30 21.15.15.excalidraw.md"
           }
         }
       }
@@ -128,12 +139,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "243678093ffb75aa",
+  "active": "80964a25f7c6cb46",
   "lastOpenFiles": [
     "Untitled.md",
+    "Drawing 2024-07-30 21.15.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-30 21.18.34.excalidraw.md",
+    "Excalidraw",
     "Test.md",
     "Untitled 3.canvas",
     "2024-07-30.md",
@@ -147,7 +162,6 @@
     "Ink/Writing",
     "Excalidraw/Drawing 2024-07-24 18.50.03.excalidraw.md",
     "2024-07-24.md",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
